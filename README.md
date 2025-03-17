@@ -17,7 +17,7 @@ Run `math_module_calculations.py` and enter a number when prompted.
 
 ## How to Run
 1. Clone the repository:
-https://github.com/rahulsisodiya0109/python-assignment-3.git
+git clone https://github.com/rahulsisodiya0109/python-assignment-3.git
 3. Navigate to the folder:
 cd python-assignment-3
 4. Run the scripts:
